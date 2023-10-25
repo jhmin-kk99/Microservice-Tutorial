@@ -1,0 +1,22 @@
+
+m
+java:S3655."PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(•‰¢ü8‡ñïê∂1
+m
+java:S3655H"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(•‰¢ü8‡ñïê∂1
+]	java:S125"<This block of commented-out lines of code should be removed.(ˇÄ˙ìˇˇˇˇˇ8Êñïê∂1
+]	java:S125 "<This block of commented-out lines of code should be removed.(àá∏ˆ˙ˇˇˇˇ8Êñïê∂1
+X	java:S1251"<This block of commented-out lines of code should be removed.(‹¥˙·8Ëñïê∂1
+X	java:S125:"<This block of commented-out lines of code should be removed.(≤ûÇŒ8Ëñïê∂1
+E
+java:S1172F"(Remove this unused method parameter "e".(ÇÿôÏ8Íñïê∂1
+y
+java:S1128"\Remove this unused import 'io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker'.(õËÃ«8Ïñïê∂1
+f
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(∂Ø¯¶˙ˇˇˇˇ8Ïñïê∂1
+j
+java:S1128
+"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Œˆºﬁ˚ˇˇˇˇ8Ìñïê∂1
+r
+java:S1128"PRemove this unused import 'test.microservice.employeeservice.service.APIClient'.(°Á„„¯ˇˇˇˇ8Ìñïê∂1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(®òÎ›¸ˇˇˇˇ8Ìñïê∂1
